@@ -16,7 +16,7 @@ permissions:
 
 jobs:
   call-workflow-passing-data:
-    uses: vishal-bulbule/github-action-demo/.github/workflows/automate-readme.yml@main
+    uses: Anshika-6265/github-action-demo/.github/workflows/automate-readme.yml@main
 
   terraform:
     name: Terraform
